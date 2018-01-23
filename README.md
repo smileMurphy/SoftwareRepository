@@ -4,6 +4,7 @@
 ## SpaceDesk
 ### 描述：两个笔记本之间通过局域网进行屏幕共享、扩展
 ### 地址：https://www.spacedesk.net/
+#### 提示：浏览器访问链接为http://spacedesk.ph/html5viewer/
 </br> 
 
 ## TeamViewer
